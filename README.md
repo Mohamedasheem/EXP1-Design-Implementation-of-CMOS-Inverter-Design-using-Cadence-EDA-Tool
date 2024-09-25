@@ -95,7 +95,7 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![image](https://github.com/Mohamedasheem/EXP1-Design-Implementation-of-CMOS-Inverter-Design-using-Cadence-EDA-Tool/blob/main/Screenshot%202024-09-24%20223317.png)
 
  ![image](https://github.com/Mohamedasheem/EXP1-Design-Implementation-of-CMOS-Inverter-Design-using-Cadence-EDA-Tool/blob/main/Screenshot%202024-09-24%20223330.png)
 
