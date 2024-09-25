@@ -100,7 +100,7 @@ For Transient Analysis Settings and Output
  ![image](https://github.com/Mohamedasheem/EXP1-Design-Implementation-of-CMOS-Inverter-Design-using-Cadence-EDA-Tool/blob/main/Screenshot%202024-09-24%20223330.png)
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![image](https://github.com/Mohamedasheem/EXP1-Design-Implementation-of-CMOS-Inverter-Design-using-Cadence-EDA-Tool/blob/main/Screenshot%202024-09-24%20225346.png)
 
 ![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
 
